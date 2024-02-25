@@ -1,0 +1,22 @@
+.profiles-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .profile-card {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 650px;
+    height: 450px;
+    border: 3px solid green;
+    background-color: rgb(208, 208, 208);
+    margin: 10px;
+  }
+  
+  .img-giannis {
+    width: 500px;
+  }
