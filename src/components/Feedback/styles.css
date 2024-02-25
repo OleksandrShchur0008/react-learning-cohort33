@@ -1,0 +1,34 @@
+.feedback-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  width: 700px;
+  height: fit-content;
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: cadetblue;
+  color: white;
+}
+
+.feedback-control {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+}
+
+.buttonwithcount-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.count {
+  font-size: 30px;
+  color: white;
+}
+
+
